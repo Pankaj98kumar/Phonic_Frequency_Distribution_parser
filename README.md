@@ -12,7 +12,7 @@
 5. Runserver using command
    python manage.py runserver
 # One will get the GUI to take input and for Output
-  ![Before Submitting Input](Before_Inpute.png)
+  ![Before Submitting Input](Before_Input)
   
 
 
