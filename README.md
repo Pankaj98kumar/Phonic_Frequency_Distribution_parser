@@ -13,6 +13,7 @@
    python manage.py runserver
 # One will get the GUI to take input and for Output
   ![Before Submitting Input](Before_Input)
+  ![After_Submittind_Input](After_Input.png)
   
 
 
